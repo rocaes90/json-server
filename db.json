@@ -1,1 +1,13 @@
 
+{
+  "user": {
+    "email": "roiner.camacho@gorillalogic.com",
+    "firstName": "Jess",
+    "lastName": "Richartz",
+    "middleName": "Jay",
+    "password": "123123123",
+    "photoUrl":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6PN-vpp2vhJogxiy3_uoF9FCMcbfZMcNb9AG1Rijy0t4jvtP",
+    "profile": "resident"
+  }
+}
