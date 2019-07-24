@@ -13,44 +13,48 @@
     "unitNumber": 3108
   },
   "serviceRequests": [{
+      "category": "Heating and cooling",
+      "date": "01-09-2017",
+      "description": "Since the power got restored, our AC does not cool anything. You can hear the fan and you can hear the noise from the usual place in the closet buy no cool air.",
+      "item": "Air conditioner",
       "key": 0,
-      "status": 1,
-      "date": "",
-      "title": "A/C does not cool properly",
+      "permission": "Anytime",
       "ref": "31183-1",
-      "item": "Air conditioner",
-      "description": "",
-      "permission": "Anytime"
+      "status": 0,
+      "title": "A/C does not cool properly"
     },
     {
+      "category": "Heating and cooling",
+      "date": "01-09-2017",
+      "description": "Since the power got restored, our AC does not cool anything. You can hear the fan and you can hear the noise from the usual place in the closet buy no cool air.",
+      "item": "Air conditioner",
       "key": 1,
+      "permission": "Anytime",
+      "ref": "31183-1",
       "status": 1,
-      "date": "",
-      "title": "Shelving-other problem",
-      "ref": "31183-1",
-      "item": "Air conditioner",
-      "description": "",
-      "permission": "Anytime"
+      "title": "Shelving-other problem"
     },
     {
+      "category": "Heating and cooling",
+      "date": "01-09-2017",
+      "description": "Since the power got restored, our AC does not cool anything. You can hear the fan and you can hear the noise from the usual place in the closet buy no cool air.",
+      "item": "Air conditioner",
       "key": 2,
-      "status": 2,
-      "date": "",
-      "title": "Ice maker broken/no ice",
+      "permission": "Anytime",
       "ref": "31183-1",
-      "item": "Air conditioner",
-      "description": "",
-      "permission": "Anytime"
+      "status": 1,
+      "title": "Ice maker broken/no ice"
     },
     {
-      "key": 3,
-      "status": 2,
-      "date": "",
-      "title": "Ice maker broken/no ice",
-      "ref": "31183-1",
+      "category": "Heating and cooling",
+      "date": "01-09-2017",
+      "description": "Since the power got restored, our AC does not cool anything. You can hear the fan and you can hear the noise from the usual place in the closet buy no cool air.",
       "item": "Air conditioner",
-      "description": "",
-      "permission": "Anytime"
+      "key": 3,
+      "permission": "Anytime",
+      "ref": "31183-1",
+      "status": 2,
+      "title": "Ice maker broken/no ice"
     }
   ]
 }
