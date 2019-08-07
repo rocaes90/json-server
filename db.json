@@ -1,16 +1,23 @@
 {
   "user": {
-    "email": "jessicarichatz@gmail.com",
-    "firstName": "Jess",
-    "lastName": "Richartz",
-    "middleName": "Jay",
-    "password": "123123123",
-    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6PN-vpp2vhJogxiy3_uoF9FCMcbfZMcNb9AG1Rijy0t4jvtP",
-    "profile": "resident"
-  },
-  "property": {
-    "name": "2775 Mesa Verde",
-    "unitNumber": 3108
+    "get": {
+      "email": "jessicarichatz@gmail.com",
+      "firstName": "Jess",
+      "lastName": "Richartz",
+      "middleName": "Jay",
+      "password": "123123123",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6PN-vpp2vhJogxiy3_uoF9FCMcbfZMcNb9AG1Rijy0t4jvtP",
+      "profile": "resident"
+    },
+    "property": {
+      "get": {
+        "name": "2775 Mesa Verde",
+        "unitNumber": 3108
+      }
+    },
+    "login": {
+      "token": "abcdefghijklmnopqrstuvwxyz"
+    }
   },
   "serviceRequests": {
     "1": {
