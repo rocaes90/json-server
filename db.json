@@ -8,7 +8,7 @@
       "id": 0,
       "isAppOnly": false,
       "link": "https://www.google.com/",
-      "status": "ACTIVE",
+      "status": "Active",
       "title": "Parking Lot Maintenance",
       "updatedAt": "2019-01-11",
       "updatedBy": 1
@@ -22,7 +22,7 @@
       "id": 1,
       "isAppOnly": false,
       "link": "https://www.google.com/",
-      "status": "INACTIVE",
+      "status": "Inactive",
       "title": "Trash Removal Reminder",
       "updatedAt": "2019-01-07",
       "updatedBy": 1
@@ -36,7 +36,7 @@
       "id": 2,
       "isAppOnly": false,
       "link": "https://www.google.com/",
-      "status": "ACTIVE",
+      "status": "Active",
       "title": "Leasing Office Early Close",
       "updatedAt": "2018-12-16",
       "updatedBy": 1
@@ -50,7 +50,7 @@
       "id": 3,
       "isAppOnly": false,
       "link": "https://www.google.com/",
-      "status": "INACTIVE",
+      "status": "Inactive",
       "title": "Parking Lot Maintenance",
       "updatedAt": "2018-10-26",
       "updatedBy": 1
@@ -64,7 +64,7 @@
       "id": 4,
       "isAppOnly": false,
       "link": "https://www.google.com/",
-      "status": "INACTIVE",
+      "status": "Inactive",
       "title": "Trash Removal Reminder",
       "updatedAt": "2018-10-21",
       "updatedBy": 1
